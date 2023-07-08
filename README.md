@@ -8,8 +8,8 @@ This project is not opinionated. In other words, it does NOT endorse, claim or i
 
 ## Download links
 
-- **dlc.dat**：[https://github.com/v2fly/domain-list-community/releases/latest/download/dlc.dat](https://github.com/v2fly/domain-list-community/releases/latest/download/dlc.dat)
-- **dlc.dat.sha256sum**：[https://github.com/v2fly/domain-list-community/releases/latest/download/dlc.dat.sha256sum](https://github.com/v2fly/domain-list-community/releases/latest/download/dlc.dat.sha256sum)
+- **dlc.dat**：[https://github.com/UptonEdward/domain-list-community/releases/latest/download/dlc.dat](https://github.com/UptonEdward/domain-list-community/releases/latest/download/dlc.dat)
+- **dlc.dat.sha256sum**：[https://github.com/UptonEdward/domain-list-community/releases/latest/download/dlc.dat.sha256sum](https://github.com/UptonEdward/domain-list-community/releases/latest/download/dlc.dat.sha256sum)
 
 ## Usage example
 
@@ -68,7 +68,7 @@ Each file in the `data` directory can be used as a rule in this format: `geosite
 ## Generate `dlc.dat` manually
 
 - Install `golang` and `git`
-- Clone project code: `git clone https://github.com/v2fly/domain-list-community.git`
+- Clone project code: `git clone https://github.com/UptonEdward/domain-list-community.git`
 - Navigate to project root directory: `cd domain-list-community`
 - Install project dependencies: `go mod download`
 - Generate `dlc.dat` (without `datapath` option means to use domain lists in `data` directory of current working directory):
@@ -111,10 +111,10 @@ To generate a section:
 1. Remove all the comments in the file.
 2. Replace `include:` lines with the actual content of the file.
 3. Omit all empty lines.
-4. Generate each `domain:` line into a [sub-domain routing rule](https://github.com/v2fly/v2ray-core/blob/master/app/router/config.proto#L21).
-5. Generate each `keyword:` line into a [plain domain routing rule](https://github.com/v2fly/v2ray-core/blob/master/app/router/config.proto#L17).
-6. Generate each `regexp:` line into a [regex domain routing rule](https://github.com/v2fly/v2ray-core/blob/master/app/router/config.proto#L19).
-7. Generate each `full:` line into a [full domain routing rule](https://github.com/v2fly/v2ray-core/blob/master/app/router/config.proto#L23).
+4. Generate each `domain:` line into a [sub-domain routing rule](https://github.com/UptonEdward/v2ray-core/blob/master/app/router/config.proto#L21).
+5. Generate each `keyword:` line into a [plain domain routing rule](https://github.com/UptonEdward/v2ray-core/blob/master/app/router/config.proto#L17).
+6. Generate each `regexp:` line into a [regex domain routing rule](https://github.com/UptonEdward/v2ray-core/blob/master/app/router/config.proto#L19).
+7. Generate each `full:` line into a [full domain routing rule](https://github.com/UptonEdward/v2ray-core/blob/master/app/router/config.proto#L23).
 
 ## How to organize domains
 
