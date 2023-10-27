@@ -2,7 +2,6 @@
 
 include:acer
 include:adobe
-include:alibabacloud
 include:amazon
 include:amd
 include:apple
