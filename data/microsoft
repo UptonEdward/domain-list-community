@@ -301,7 +301,7 @@ download.windowsupdate.com @cn
 full:res.cdn.office.net @cn
 full:bg.v4.a.dl.ws.microsoft.com @cn
 full:bg4.v4.a.dl.ws.microsoft.com @cn
-full:build.microsoft.com @cn
+full:build.microsoft.com
 full:cdn.marketplaceimages.windowsphone.com @cn
 full:cn.windowssearch.com @cn
 full:ctldl.windowsupdate.com @cn
@@ -326,7 +326,7 @@ full:storeedgefd.dsx.mp.microsoft.com @cn
 full:surface.downloads.prss.microsoft.com @cn
 full:vscode.download.prss.microsoft.com @cn
 full:vz.download.prss.microsoft.com @cn
-full:wl.dlservice.microsoft.com @cn
+full:wl.dlservice.microsoft.com
 full:wscont1.apps.microsoft.com @cn
 full:wscont2.apps.microsoft.com @cn
 full:xb.dlservice.microsoft.com @cn
