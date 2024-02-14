@@ -1,6 +1,6 @@
 include:azure
 include:bing
-include:github
+# include:github
 include:microsoft-dev
 include:microsoft-pki
 include:msn
