@@ -745,11 +745,12 @@ full:push-apple.com.akadns.net
 
 # Domains and services below are available in China mainland
 # Use in config file like this: "geosite:apple@cn"
+full:amp-api.apps.apple.com @cn
 full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net @cn
 full:amp-api-edge-lb.itunes-apple.com.akadns.net @cn
 full:amp-api-edge.apps.apple.com @cn
+full:amp-api.music.apple.com @cn
 full:amp-api-search-edge.apps.apple.com @cn
-full:amp-api.apps.apple.com @cn
 full:aod.itunes.apple.com @cn
 full:api-edge.apps.apple.com @cn
 full:apptrailers.itunes.apple.com @cn
@@ -767,12 +768,14 @@ full:gspe85-cn-ssl.ls.apple.com @cn
 full:inappcheck-cn.itunes-apple.com.akadns.net @cn
 full:inappcheck-lb.itunes-apple.com.akadns.net @cn
 full:inappcheck.itunes.apple.com @cn
+full:init.ess.apple.com @cn
 full:init.itunes.apple.com @cn
 full:init.gc-lb.apple.com.akadns.net @cn
 full:init.gc.apple.com @cn
 full:iosapps.itunes.apple.com @cn
 full:js-cdn.music.apple.com @cn
 full:km.support.apple.com @cn
+full:librarydaap.itunes.apple.com @cn
 full:maps.apple.com @cn
 full:osxapps.itunes.apple.com @cn
 full:pd.itunes.apple.com @cn
@@ -782,6 +785,7 @@ full:se2.itunes.apple.com @cn
 full:search.itunes.apple.com @cn
 full:sf-api-token-service.itunes.apple.com @cn
 full:sp.itunes.apple.com @cn
+full:static.gc.apple.com @cn
 full:streamingaudio.itunes.apple.com @cn
 full:su.itunes.apple.com @cn
 full:sync.itunes.apple.com @cn
