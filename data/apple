@@ -1,7 +1,6 @@
 include:apple-ads
 include:apple-dev
 include:apple-pki
-include:apple-update
 include:beats
 include:icloud
 include:itunes
@@ -738,6 +737,17 @@ xn--hxtr4rozx.xn--czr694b # 苹果店.商标
 xn--kput3imi374g.xn--hxt814e # 苹果手机.网店
 xn--ohq11k7pl25iyo8a.cn @cn # 苹果专卖店.cn
 xn--ruq8a011kt6y.xn--hxt814e # 苹果保修.网店
+
+gg.apple.com
+gnf-mdn.apple.com
+gnf-mr.apple.com
+gs.apple.com
+ig.apple.com
+ns.itunes.apple.com
+osrecovery.apple.com
+skl.apple.com
+swdownload.apple.com
+swpost.apple.com
 
 full:apple.com.akadns.net
 full:courier-push-apple.com.akadns.net
