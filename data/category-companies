@@ -56,7 +56,7 @@ include:qualcomm
 include:qwant
 include:razer
 include:salesforce
-include:samsung
+# include:samsung
 include:smartone
 include:snap
 include:sony
