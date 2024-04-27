@@ -58,7 +58,7 @@ Each file in the `data` directory can be used as a rule in this format: `geosite
       "type": "field",
       "outboundTag": "Proxy-3",
       "domain": [
-        "geosite:geolocation-!cn"
+        "geosite:abroad"
       ]
     }
   ]
