@@ -7,11 +7,13 @@ include:csdn
 include:deepin
 include:gitee
 include:goproxy
+include:huawei-dev
 include:jinrishici
 include:juejin
 include:kuaiyikeji
 include:oschina
 include:pgyer
+include:pingcap
 include:rubychina
 include:segmentfault
 include:sxl
@@ -20,4 +22,3 @@ include:huawei-dev
 include:tipdm
 include:ubuntukylin
 include:xueyuanjun
-include:pingcap

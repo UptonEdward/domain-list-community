@@ -38,6 +38,7 @@ include:tesla
 include:volvo
 
 # Bank & Finance
+include:category-finance
 include:dowjones
 include:mastercard
 include:paypal
@@ -57,6 +58,7 @@ include:pagecdn
 include:quantil
 include:scaleflex
 include:stackpath
+include:wistia
 
 # Certificate authorities
 include:category-cas
