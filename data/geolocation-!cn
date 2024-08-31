@@ -2,6 +2,8 @@
 
 # TLDs (Top Level Domains) used outside China mainland (IT'S TOO WIDE!)
 # include:tld-!cn
+# AI Chat
+include:category-ai-chat-!cn
 
 # Anime, Comics & Games
 include:category-acg

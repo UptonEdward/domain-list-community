@@ -4,6 +4,7 @@ include:acer
 include:adobe
 include:amazon
 include:amd
+include:anthropic
 include:apple
 include:asus
 include:atlassian
@@ -76,6 +77,7 @@ include:westerndigital
 include:wisekey
 include:yahoo
 include:yandex
+include:xai
 
 # Remote Control
 include:category-remote-control
